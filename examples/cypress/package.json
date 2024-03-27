@@ -2,7 +2,7 @@
     "name": "cypress_example",
     "private": true,
     "dependencies": {
-        "express": "4.17.1"
+        "express": "4.19.2"
     },
     "devDependencies": {
         "@bazel/cypress": "^3.8.0",
